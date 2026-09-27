@@ -1,0 +1,226 @@
+[
+  {
+    "id": "smash-brothers-young-link",
+    "name": "Smash Brothers Young Link",
+    "imageName": "Ocarina of Time Link : Smash Bros Young Link Amiibo",
+    "exclusives": "Lon Lon Ranch Paraglider Fabric\nCap of Time\nTunic of Time\nTrousers of Time\nBiggoron Sword",
+    "extras": "Soldier's Claymore\nArrows\nAssorted Meat (Raw Meat, Raw Prime Meat, Raw Gourmet Meat)",
+    "qrAliases": [
+      "SSB_Young_Link"
+    ],
+    "model": {
+      "filename": "SSB_Young_Link",
+      "targetHeightMeters": 0.12,
+      "yawDegrees": 0,
+      "verticalOffsetMeters": 0
+    }
+  },
+  {
+    "id": "ocarina-of-time-link",
+    "name": "Ocarina of Time Link",
+    "imageName": "Ocarina of Time Link : Smash Bros Young Link Amiibo",
+    "exclusives": "Lon Lon Ranch Paraglider Fabric\nCap of Time\nTunic of Time\nTrousers of Time\nBiggoron Sword",
+    "extras": "Soldier's Claymore\nArrows\nAssorted Meat (Raw Meat, Raw Prime Meat, Raw Gourmet Meat)",
+    "qrAliases": [
+      "OOT_Link"
+    ],
+    "model": {
+      "filename": "OOT_Link",
+      "targetHeightMeters": 0.12,
+      "yawDegrees": 0,
+      "verticalOffsetMeters": 0
+    }
+  },
+  {
+    "id": "breath-of-the-wild-archer-link",
+    "name": "Breath of the Wild Archer Link",
+    "imageName": "Breath of the Wild Archer Link Amiibo",
+    "exclusives": "Tunic of Memories Paraglider Fabric\nAncient Blade",
+    "extras": "Knight's Bow, Soldier's Bow\nAssorted Meat (Raw Bird Drumstick, Raw Meat, Raw Bird Thigh)\nAssorted Fish (Armored Carp, Mighty Cap, Chillfin Trout, Hyrule Bass, Mighty Porgy, Staminoka Bass)",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-bokoblin",
+    "name": "Breath of the Wild Bokoblin",
+    "imageName": "Breath of the Wild Bokoblin Amiibo",
+    "exclusives": "Bokoblin Paraglider Fabric",
+    "extras": "Boko Bow, Spiked Boko Bow\nBoko Shield, Spiked Boko Shield\nBokoblin Guts\nAssorted Meat (Raw Meat, Raw Prime Meat, Raw Gourmet Meat)",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-daruk",
+    "name": "Breath of the Wild Daruk",
+    "imageName": "Breath of the Wild Daruk Amiibo",
+    "exclusives": "Goron Champion Paraglider Fabric\nVah Rudania Divine Helm",
+    "extras": "Cobble Crusher\nAssorted Gems (Amber, Opal, Luminous Stone, Star Fragment, Sapphire, Ruby, Topaz, Diamond)",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-guardian",
+    "name": "Breath of the Wild Guardian",
+    "imageName": "Breath of the Wild Guardian Amiibo",
+    "exclusives": "Ancient Sheikah Paraglider Fabric\nAncient Blade",
+    "extras": "Rusty Broadsword, Rusty Claymore, Rusty Halberd\nArrows\nIron Boxes of Materials",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-mipha",
+    "name": "Breath of the Wild Mipha",
+    "imageName": "Breath of the Wild Mipha Amiibo",
+    "exclusives": "Zora Champion Paraglider Fabric\nVah Ruta Divine Helm",
+    "extras": "Zora Spear\nAssorted Fish (Armored Carp, Mighty Cap, Chillfin Trout, Hyrule Bass, Mighty Porgy, Staminoka Bass)",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-revali",
+    "name": "Breath of the Wild Revali",
+    "imageName": "Breath of the Wild Revali Amiibo",
+    "exclusives": "Rito Champion Paraglider Fabric\nVah Medoh Divine Helm",
+    "extras": "Falcon Bow, Swallow Bow\nArrows\nAssorted Herbs (Silent Princess, Electric Safflina, Swift Carrot, Mighty Thistle, Blue Nightshade, Hyrule Herb, Fortified Pumpkin, Amoranth, Swift Violet)",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-rider-link",
+    "name": "Breath of the Wild Rider Link",
+    "imageName": "Breath of the Wild Rider Link Amiibo",
+    "exclusives": "Hylian-Hood Paraglider Fabric",
+    "extras": "Soldier's Broadsword\nArrows\nAssorted Mushrooms (Chillshroom, Hearty Truffle, Hylian Shroom, Rushroom, Zapshroom, Stamella Shroom, Skyshroom, Ironshroom, Sunshroom, Brightcap, Razorshroom)",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-urbosa",
+    "name": "Breath of the Wild Urbosa",
+    "imageName": "Breath of the Wild Urbosa Amiibo",
+    "exclusives": "Gerudo Champion Paraglider Fabric\nVah Naboris Divine Helm",
+    "extras": "Gerudo Scimitar\nAssorted Meat (Raw Meat, Raw Prime Meat, Raw Gourmet Meat, Raw Bird Drumstick, Raw Bird Thigh, Raw Whole Bird)",
+    "qrAliases": []
+  },
+  {
+    "id": "breath-of-the-wild-zelda",
+    "name": "Breath of the Wild Zelda",
+    "imageName": "Breath of the Wild Zelda Amiibo",
+    "exclusives": "Hyrule Princess Paraglider Fabric",
+    "extras": "Knight's Shield, Soldier's Shield\nAssorted Gems (Amber, Opal, Luminous Stone, Star Fragment, Sapphire, Ruby, Topaz, Diamond)\nAssorted Herbs (Silent Princess, Electric Safflina, Swift Carrot, Mighty Thistle, Blue Nightshade, Hyrule Herb, Fortified Pumpkin, Amoranth, Swift Violet)",
+    "qrAliases": []
+  },
+  {
+    "id": "link-s-awakening-link",
+    "name": "Link's Awakening Link",
+    "imageName": "Link's Awakening Link Amiibo",
+    "exclusives": "Egg Paraglider Fabric\nMask of Awakening\nTunic of Awakening\nTrousers of Awakening",
+    "extras": "Soldier's Broadsword\nArrows\nBarrels (Explosive and Materials)",
+    "qrAliases": []
+  },
+  {
+    "id": "majora-s-mask-link",
+    "name": "Majora's Mask Link",
+    "imageName": "Majora's Mask Link Amiibo",
+    "exclusives": "Majora's Mask Paraglider Fabric\nFierce Deity Mask\nFierce Deity Armor\nFierce Deity Boots\nFierce Deity Sword",
+    "extras": "Knight's Broadsword\nAssorted Mushrooms (Chillshroom, Hearty Truffle, Hylian Shroom, Rushroom, Zapshroom, Stamella Shroom, Skyshroom, Ironshroom, Sunshroom, Brightcap, Razorshroom)",
+    "qrAliases": []
+  },
+  {
+    "id": "skyward-sword-link",
+    "name": "Skyward Sword Link",
+    "imageName": "Skyward Sword Link Amiibo",
+    "exclusives": "Sword-Spirit Paraglider Fabric\nCap of the Sky\nTunic of the Sky\nTrousers of the Sky\nWhite Sword of the Sky",
+    "extras": "Knight's Broadsword\nKnight's Shield, Soldier's Shield\nArrows\nWooden Boxes of Materials",
+    "qrAliases": []
+  },
+  {
+    "id": "skyward-sword-zelda-and-loftwing",
+    "name": "Skyward Sword Zelda and Loftwing",
+    "imageName": "Skyward Sword Zelda and Loftwing Amiibo",
+    "exclusives": "Goddess Paraglider Fabric",
+    "extras": "Soldier's Bow, Knight's Bow\nAssorted Gems (Amber, Opal, Luminous Stone, Star Fragment, Sapphire, Ruby, Topaz, Diamond)\nAssorted Herbs (Silent Princess, Electric Safflina, Swift Carrot, Mighty Thistle, Blue Nightshade, Hyrule Herb, Fortified Pumpkin, Amoranth, Swift Violet)",
+    "qrAliases": []
+  },
+  {
+    "id": "smash-brothers-ganondorf",
+    "name": "Smash Brothers Ganondorf",
+    "imageName": "Smash Brothers Gannondorf Amiibo",
+    "exclusives": "Demon King Paraglider Fabric\nDusk Claymore",
+    "extras": "Gerudo Claymore\nBokoblin Guts\nRaw Meat\nAssorted Gems (Amber, Opal, Luminous Stone, Star Fragment, Sapphire, Ruby, Topaz, Diamond)",
+    "qrAliases": []
+  },
+  {
+    "id": "smash-brothers-link",
+    "name": "Smash Brothers Link",
+    "imageName": "Twilight Princess : Smash Brothers Link Amiibo",
+    "exclusives": "Mirror of Twilght Paraglider Fabric\nEpona Horse\nCap of Twilight\nTunic of Twilight\nTrousers of Twilight",
+    "extras": "Knight's Broadsword\nSoldier's Shield\nAssorted Fruits and Nuts (Wildberry, Voltfruit, Apple, Mighty Bananas, Hydromelon, Palm Fruit, Spicy Pepper, Chickaloo Tree Nut, Acorn)",
+    "qrAliases": []
+  },
+  {
+    "id": "smash-brothers-sheik",
+    "name": "Smash Brothers Sheik",
+    "imageName": "Smash Brothers Sheik Amiibo",
+    "exclusives": "Sheik Paraglider Fabric\nSheik's Mask",
+    "extras": "Eightfold Blade\nShield of the Mind's Eye\nPhrenic Bow\nArrows\nAssorted Mushrooms (Chillshroom, Hearty Truffle, Hylian Shroom, Rushroom, Zapshroom, Stamella Shroom, Skyshroom, Ironshroom, Sunshroom, Brightcap, Razorshroom)",
+    "qrAliases": []
+  },
+  {
+    "id": "smash-brothers-toon-link",
+    "name": "Smash Brothers Toon Link",
+    "imageName": "Wind Waker Link : Smash Brothers Toon Link Amiibo",
+    "exclusives": "King of Red Lions Paraglider Fabric\nCap of the Wind\nTunic of Wind\nTrousers of the Wind\nSea Breeze Shield\nSea Breeze Boomerang",
+    "extras": "Boomerang\nKnight's Broadsword\nArrows\nAssorted Fish (Armored Carp, Mighty Cap, Chillfin Trout, Hyrule Bass, Mighty Porgy, Staminoka Bass)",
+    "qrAliases": []
+  },
+  {
+    "id": "smash-brothers-zelda",
+    "name": "Smash Brothers Zelda",
+    "imageName": "Smash Brothers Zelda Amiibo",
+    "exclusives": "Princess of Twilight Paraglider Fabric\nDusk Bow",
+    "extras": "Soldier's Bow, Knight's Bow\nAssorted Gems (Amber, Opal, Luminous Stone, Star Fragment, Sapphire, Ruby, Topaz, Diamond)\nAssorted Herbs (Silent Princess, Electric Safflina, Swift Carrot, Mighty Thistle, Blue Nightshade, Hyrule Herb, Fortified Pumpkin, Amoranth, Swift Violet)",
+    "qrAliases": []
+  },
+  {
+    "id": "tears-of-the-kingdom-link",
+    "name": "Tears of the Kingdom Link",
+    "imageName": "Tears of the Kingdom Link Amiibo",
+    "exclusives": "Champion's Leathers Paraglider Skin",
+    "extras": "Knight's Broadsword\nAssorted Mushrooms (Chillshroom, Hearty Truffle, Hylian Shroom, Rushroom, Zapshroom, Stamella Shroom, Skyshroom, Ironshroom, Sunshroom, Brightcap, Razorshroom)",
+    "qrAliases": []
+  },
+  {
+    "id": "the-legend-of-zelda-8-bit-link",
+    "name": "The Legend of Zelda 8-Bit Link",
+    "imageName": "The Legend of Zelda 8-Bit Link Amiibo",
+    "exclusives": "Pixel Paraglider Fabric\nCap of the Hero\nTunic of the Hero\nTrousers of the Hero\nSword of the Hero",
+    "extras": "Knight's Broadsword\nSoldier's Shield, Knight's Shield\nArrows\nBarrels (Explosive and Materials)",
+    "qrAliases": []
+  },
+  {
+    "id": "twilight-princess-link",
+    "name": "Twilight Princess Link",
+    "imageName": "Twilight Princess : Smash Brothers Link Amiibo",
+    "exclusives": "Mirror of Twilght Paraglider Fabric\nEpona Horse\nCap of Twilight\nTunic of Twilight\nTrousers of Twilight",
+    "extras": "Knight's Broadsword\nSoldier's Shield\nAssorted Fruits and Nuts (Wildberry, Voltfruit, Apple, Mighty Bananas, Hydromelon, Palm Fruit, Spicy Pepper, Chickaloo Tree Nut, Acorn)",
+    "qrAliases": []
+  },
+  {
+    "id": "twilight-princess-wolf-link",
+    "name": "Twilight Princess Wolf Link",
+    "imageName": "Twilight Princess Wolf Link Amiibo",
+    "exclusives": "Mirror of Twilight Paraglider Fabric",
+    "extras": "Assorted Meat (Raw Meat, Raw Prime Meat, Raw Gourmet Meat, Raw Whole Bird, Seared Gourmet Meat, Roasted Whole Bird)",
+    "qrAliases": []
+  },
+  {
+    "id": "wind-waker-link",
+    "name": "Wind Waker Link",
+    "imageName": "Wind Waker Link : Smash Brothers Toon Link Amiibo",
+    "exclusives": "King of Red Lions Paraglider Fabric\nCap of the Wind\nTunic of Wind\nTrousers of the Wind\nSea Breeze Shield\nSea Breeze Boomerang",
+    "extras": "Boomerang\nKnight's Broadsword\nArrows\nAssorted Fish (Armored Carp, Mighty Cap, Chillfin Trout, Hyrule Bass, Mighty Porgy, Staminoka Bass)",
+    "qrAliases": []
+  },
+  {
+    "id": "wind-waker-zelda",
+    "name": "Wind Waker Zelda",
+    "imageName": "Wind Waker Zelda Amiibo",
+    "exclusives": "Bygone Royal Paraglider Fabric\nSea Breeze Shield",
+    "extras": "Soldier's Shield, Knight's Shield\nAssorted Gems (Amber, Opal, Luminous Stone, Star Fragment, Sapphire, Ruby, Topaz, Diamond)\nAssorted Herbs (Silent Princess, Electric Safflina, Swift Carrot, Mighty Thistle, Blue Nightshade, Hyrule Herb, Fortified Pumpkin, Amoranth, Swift Violet)",
+    "qrAliases": []
+  }
+]
